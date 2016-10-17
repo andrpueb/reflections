@@ -4,13 +4,19 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-  
+
+  Is a position where you have made changes but are still working on it and are being tracked by git, you can decide later if the changes are important enough to commit
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+  Comparing the staging area with the wotking area i think
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+  Whenever I want to try something new in the project that i dont really want to initially merge to the master project, something new that I want to work in and if everything goes well I will merge later.
+
 
 How do the diagrams help you visualize the branch structure?
 
